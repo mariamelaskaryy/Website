@@ -1,0 +1,57 @@
+body .rectangle8
+{
+position: absolute;
+width: 298px;
+height: 73px;
+left: 592px;
+top: 233px;
+background: #619A8C;
+opacity: 0.9;
+border-radius: 50px;
+object-position: center;
+}
+
+body .rectangle9
+{
+position: absolute;
+width: 298px;
+height: 73px;
+left: 598px;
+top: 647px;
+background: #619A8C;
+opacity: 0.9;
+border-radius: 50px;
+object-position: center;
+}
+
+body .n
+{
+position: absolute;
+width: 203px;
+height: 72px;
+left: 637px;
+top: 235px;
+font-family: Open Sans Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 72px;
+color: #000000;
+text-align: center;
+}
+
+body .b
+{
+position: absolute;
+width: 165px;
+height: 72px;
+left: 660px;
+top: 649px;
+font-family: Open Sans Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 72px;
+color: #000000;
+text-align: center;
+}

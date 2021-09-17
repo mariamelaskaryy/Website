@@ -1,0 +1,129 @@
+body
+{
+position: relative;
+width: 1440px;
+height: 1024px;
+background: #B8B4B4;
+}
+
+body .rectangle1
+{
+position: absolute;
+width: 1440px;
+height: 196px;
+left: 0px;
+top: 0px;
+background: #000000;
+}
+
+body .jogs
+{
+position: absolute;
+width: 683px;
+height: 408px;
+left: 37px;
+top: -30px;
+font-family: 'Krona One', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 140px;
+line-height: 239px;
+color: #FFFFFF;
+}
+
+body .contactus
+{
+position: absolute;
+width: 156px;
+height: 36px;
+right: 390px;
+top: 74px;
+font-family: Libre Franklin;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+color: #FFFFFF;
+text-decoration: none;
+}
+
+body .aboutus
+{
+position: absolute;
+width: 130px;
+height: 36px;
+right: 250px;
+top: 74px;
+font-family: Libre Franklin;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+color: #FFFFFF;
+text-decoration: none;
+}
+
+
+body img 
+{
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  background-color: #bbb;
+  border-radius: 40%;
+  display: inline-block;
+  right: 170px;
+  top: 60px;
+  object-position: 50% 50%;
+}
+
+body .cart
+{
+position: absolute;
+width: 80px;
+height: 80px;
+top: 55px;
+right: 70px;
+display: flex;
+border-radius: 40%;
+object-position: 50% 50%;
+}
+
+body .signup
+{
+position: absolute;
+width: 108px;
+height: 72px;
+right: 570px;
+top: 74px;
+font-family: Libre Franklin;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+color: #FFFFFF;
+text-decoration: none;
+}
+
+.contactus:hover
+{
+    background-color: cadetblue;
+    border-radius: 40px;
+    text-align: center;
+}
+
+.signup:hover
+{
+    background-color: cadetblue;
+    border-radius: 40px;
+    text-align: center;
+    height: 35px;
+}
+
+.aboutus:hover
+{
+    background-color: cadetblue;
+    border-radius: 40px;
+    text-align: center;
+}
+
